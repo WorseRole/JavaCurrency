@@ -1,2 +1,2 @@
 # JavaCurrency
-java并发
+java并发笔记
